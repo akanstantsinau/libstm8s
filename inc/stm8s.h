@@ -295,7 +295,7 @@ typedef struct {
     __IO uint8_t CNTR;          /*!< 0x06: Counter Register                  */
     __IO uint8_t PSCR;          /*!< 0x07: Prescaler Register                */
     __IO uint8_t ARR ;          /*!< 0x08: Auto Reload Register              */
-} TIM4_TypeDef;
+} TIM6_TypeDef;
 
 /** @brief ADC Channel Buffer Register Layout
   */
