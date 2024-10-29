@@ -142,7 +142,7 @@ typedef enum {
 #define BEEP            ((BEEP_TypeDef *)BEEP_BASE)
 #define SPI1            ((SPI_TypeDef *)SPI_BASE)
 #define I2C1            ((I2C_TypeDef *)I2C_BASE)
-#define UART1           ((UART_TypeDef *)UART_BASE)
+#define UART1           ((UART_TypeDef *)UART1_BASE)
 #define TIM1            ((TIM1_TypeDef *)TIM1_BASE)
 #define TIM2            ((TIM2_TypeDef *)TIM2_BASE)
 #define TIM4            ((TIM4_TypeDef *)TIM4_BASE)
